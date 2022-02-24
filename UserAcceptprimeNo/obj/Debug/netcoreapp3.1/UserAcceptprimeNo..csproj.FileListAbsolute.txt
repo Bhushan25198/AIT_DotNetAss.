@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\Assignment1\UserAcceptprimeNo\bin\Debug\netcoreapp3.1\UserAcceptprimeNo..exe
+C:\Users\Admin\source\repos\Assignment1\UserAcceptprimeNo\bin\Debug\netcoreapp3.1\UserAcceptprimeNo..deps.json
+C:\Users\Admin\source\repos\Assignment1\UserAcceptprimeNo\bin\Debug\netcoreapp3.1\UserAcceptprimeNo..runtimeconfig.json
+C:\Users\Admin\source\repos\Assignment1\UserAcceptprimeNo\bin\Debug\netcoreapp3.1\UserAcceptprimeNo..runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Assignment1\UserAcceptprimeNo\bin\Debug\netcoreapp3.1\UserAcceptprimeNo..dll
+C:\Users\Admin\source\repos\Assignment1\UserAcceptprimeNo\bin\Debug\netcoreapp3.1\UserAcceptprimeNo..pdb
+C:\Users\Admin\source\repos\Assignment1\UserAcceptprimeNo\obj\Debug\netcoreapp3.1\UserAcceptprimeNo..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Assignment1\UserAcceptprimeNo\obj\Debug\netcoreapp3.1\UserAcceptprimeNo..AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Assignment1\UserAcceptprimeNo\obj\Debug\netcoreapp3.1\UserAcceptprimeNo..AssemblyInfo.cs
+C:\Users\Admin\source\repos\Assignment1\UserAcceptprimeNo\obj\Debug\netcoreapp3.1\UserAcceptprimeNo..csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Assignment1\UserAcceptprimeNo\obj\Debug\netcoreapp3.1\UserAcceptprimeNo..dll
+C:\Users\Admin\source\repos\Assignment1\UserAcceptprimeNo\obj\Debug\netcoreapp3.1\UserAcceptprimeNo..pdb
+C:\Users\Admin\source\repos\Assignment1\UserAcceptprimeNo\obj\Debug\netcoreapp3.1\UserAcceptprimeNo..genruntimeconfig.cache

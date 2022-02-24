@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Assignment1\UserAcceptPrimeNos\obj\Debug\netcoreapp3.1\UserAcceptPrimeNos.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Assignment1\UserAcceptPrimeNos\obj\Debug\netcoreapp3.1\UserAcceptPrimeNos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Assignment1\UserAcceptPrimeNos\obj\Debug\netcoreapp3.1\UserAcceptPrimeNos.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Assignment1\UserAcceptPrimeNos\obj\Debug\netcoreapp3.1\UserAcceptPrimeNos.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Assignment1\UserAcceptPrimeNos\obj\Debug\netcoreapp3.1\UserAcceptPrimeNos.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Assignment1\UserAcceptPrimeNos\bin\Debug\netcoreapp3.1\UserAcceptPrimeNos.exe
+C:\Users\Admin\source\repos\Assignment1\UserAcceptPrimeNos\bin\Debug\netcoreapp3.1\UserAcceptPrimeNos.deps.json
+C:\Users\Admin\source\repos\Assignment1\UserAcceptPrimeNos\bin\Debug\netcoreapp3.1\UserAcceptPrimeNos.runtimeconfig.json
+C:\Users\Admin\source\repos\Assignment1\UserAcceptPrimeNos\bin\Debug\netcoreapp3.1\UserAcceptPrimeNos.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Assignment1\UserAcceptPrimeNos\bin\Debug\netcoreapp3.1\UserAcceptPrimeNos.dll
+C:\Users\Admin\source\repos\Assignment1\UserAcceptPrimeNos\bin\Debug\netcoreapp3.1\UserAcceptPrimeNos.pdb
+C:\Users\Admin\source\repos\Assignment1\UserAcceptPrimeNos\obj\Debug\netcoreapp3.1\UserAcceptPrimeNos.dll
+C:\Users\Admin\source\repos\Assignment1\UserAcceptPrimeNos\obj\Debug\netcoreapp3.1\UserAcceptPrimeNos.pdb
+C:\Users\Admin\source\repos\Assignment1\UserAcceptPrimeNos\obj\Debug\netcoreapp3.1\UserAcceptPrimeNos.genruntimeconfig.cache

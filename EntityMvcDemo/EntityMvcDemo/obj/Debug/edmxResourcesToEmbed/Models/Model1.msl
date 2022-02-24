@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="HRMSDBModelStoreContainer" CdmEntityContainer="HRMSDBEntities">
+    <EntitySetMapping Name="EMPLOYEES">
+      <EntityTypeMapping TypeName="HRMSDBModel.EMPLOYEE">
+        <MappingFragment StoreEntitySet="EMPLOYEES">
+          <ScalarProperty Name="EMPLOYEE_ID" ColumnName="EMPLOYEE_ID" />
+          <ScalarProperty Name="FIRST_NAME" ColumnName="FIRST_NAME" />
+          <ScalarProperty Name="LAST_NAME" ColumnName="LAST_NAME" />
+          <ScalarProperty Name="EMAIL" ColumnName="EMAIL" />
+          <ScalarProperty Name="PHONE_NUMBER" ColumnName="PHONE_NUMBER" />
+          <ScalarProperty Name="HIRE_DATE" ColumnName="HIRE_DATE" />
+          <ScalarProperty Name="JOB_ID" ColumnName="JOB_ID" />
+          <ScalarProperty Name="SALARY" ColumnName="SALARY" />
+          <ScalarProperty Name="COMMISSION_PCT" ColumnName="COMMISSION_PCT" />
+          <ScalarProperty Name="MANAGER_ID" ColumnName="MANAGER_ID" />
+          <ScalarProperty Name="DEPARTMENT_ID" ColumnName="DEPARTMENT_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="job_grades">
+      <EntityTypeMapping TypeName="HRMSDBModel.job_grades">
+        <MappingFragment StoreEntitySet="job_grades">
+          <ScalarProperty Name="grade" ColumnName="grade" />
+          <ScalarProperty Name="lowest_sal" ColumnName="lowest_sal" />
+          <ScalarProperty Name="highest_sal" ColumnName="highest_sal" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

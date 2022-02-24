@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\ConsoleApp2\DisconnectedAss11\obj\Debug\DisconnectedAss11.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ConsoleApp2\DisconnectedAss11\bin\Debug\DisconnectedAss11.exe.config
+C:\Users\Admin\source\repos\ConsoleApp2\DisconnectedAss11\bin\Debug\DisconnectedAss11.exe
+C:\Users\Admin\source\repos\ConsoleApp2\DisconnectedAss11\bin\Debug\DisconnectedAss11.pdb
+C:\Users\Admin\source\repos\ConsoleApp2\DisconnectedAss11\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Admin\source\repos\ConsoleApp2\DisconnectedAss11\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Admin\source\repos\ConsoleApp2\DisconnectedAss11\obj\Debug\DisconnectedAss11.csproj.CopyComplete
+C:\Users\Admin\source\repos\ConsoleApp2\DisconnectedAss11\obj\Debug\DisconnectedAss11.exe
+C:\Users\Admin\source\repos\ConsoleApp2\DisconnectedAss11\obj\Debug\DisconnectedAss11.pdb
+C:\Users\Admin\source\repos\ConsoleApp2\DisconnectedAss11\obj\Debug\DisconnectedAss11.csproj.AssemblyReference.cache

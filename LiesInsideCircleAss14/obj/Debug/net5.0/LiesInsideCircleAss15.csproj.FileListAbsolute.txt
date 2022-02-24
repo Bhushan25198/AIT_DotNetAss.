@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\VehicleInterfaceAss13\LiesInsideCircleAss14\bin\Debug\net5.0\LiesInsideCircleAss15.exe
+C:\Users\Admin\source\repos\VehicleInterfaceAss13\LiesInsideCircleAss14\bin\Debug\net5.0\LiesInsideCircleAss15.deps.json
+C:\Users\Admin\source\repos\VehicleInterfaceAss13\LiesInsideCircleAss14\bin\Debug\net5.0\LiesInsideCircleAss15.runtimeconfig.json
+C:\Users\Admin\source\repos\VehicleInterfaceAss13\LiesInsideCircleAss14\bin\Debug\net5.0\LiesInsideCircleAss15.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\VehicleInterfaceAss13\LiesInsideCircleAss14\bin\Debug\net5.0\LiesInsideCircleAss15.dll
+C:\Users\Admin\source\repos\VehicleInterfaceAss13\LiesInsideCircleAss14\bin\Debug\net5.0\ref\LiesInsideCircleAss15.dll
+C:\Users\Admin\source\repos\VehicleInterfaceAss13\LiesInsideCircleAss14\bin\Debug\net5.0\LiesInsideCircleAss15.pdb
+C:\Users\Admin\source\repos\VehicleInterfaceAss13\LiesInsideCircleAss14\obj\Debug\net5.0\LiesInsideCircleAss15.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\VehicleInterfaceAss13\LiesInsideCircleAss14\obj\Debug\net5.0\LiesInsideCircleAss15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\VehicleInterfaceAss13\LiesInsideCircleAss14\obj\Debug\net5.0\LiesInsideCircleAss15.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\VehicleInterfaceAss13\LiesInsideCircleAss14\obj\Debug\net5.0\LiesInsideCircleAss15.AssemblyInfo.cs
+C:\Users\Admin\source\repos\VehicleInterfaceAss13\LiesInsideCircleAss14\obj\Debug\net5.0\LiesInsideCircleAss15.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\VehicleInterfaceAss13\LiesInsideCircleAss14\obj\Debug\net5.0\LiesInsideCircleAss15.dll
+C:\Users\Admin\source\repos\VehicleInterfaceAss13\LiesInsideCircleAss14\obj\Debug\net5.0\ref\LiesInsideCircleAss15.dll
+C:\Users\Admin\source\repos\VehicleInterfaceAss13\LiesInsideCircleAss14\obj\Debug\net5.0\LiesInsideCircleAss15.pdb
+C:\Users\Admin\source\repos\VehicleInterfaceAss13\LiesInsideCircleAss14\obj\Debug\net5.0\LiesInsideCircleAss15.genruntimeconfig.cache

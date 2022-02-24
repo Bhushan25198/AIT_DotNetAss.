@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Assignment1\CircleCalculateFun\bin\Debug\netcoreapp3.1\CircleCalculateFun..exe
+C:\Users\Admin\source\repos\Assignment1\CircleCalculateFun\bin\Debug\netcoreapp3.1\CircleCalculateFun..deps.json
+C:\Users\Admin\source\repos\Assignment1\CircleCalculateFun\bin\Debug\netcoreapp3.1\CircleCalculateFun..runtimeconfig.json
+C:\Users\Admin\source\repos\Assignment1\CircleCalculateFun\bin\Debug\netcoreapp3.1\CircleCalculateFun..runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Assignment1\CircleCalculateFun\bin\Debug\netcoreapp3.1\CircleCalculateFun..dll
+C:\Users\Admin\source\repos\Assignment1\CircleCalculateFun\bin\Debug\netcoreapp3.1\CircleCalculateFun..pdb
+C:\Users\Admin\source\repos\Assignment1\CircleCalculateFun\obj\Debug\netcoreapp3.1\CircleCalculateFun..csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Assignment1\CircleCalculateFun\obj\Debug\netcoreapp3.1\CircleCalculateFun..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Assignment1\CircleCalculateFun\obj\Debug\netcoreapp3.1\CircleCalculateFun..AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Assignment1\CircleCalculateFun\obj\Debug\netcoreapp3.1\CircleCalculateFun..AssemblyInfo.cs
+C:\Users\Admin\source\repos\Assignment1\CircleCalculateFun\obj\Debug\netcoreapp3.1\CircleCalculateFun..csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Assignment1\CircleCalculateFun\obj\Debug\netcoreapp3.1\CircleCalculateFun..dll
+C:\Users\Admin\source\repos\Assignment1\CircleCalculateFun\obj\Debug\netcoreapp3.1\CircleCalculateFun..pdb
+C:\Users\Admin\source\repos\Assignment1\CircleCalculateFun\obj\Debug\netcoreapp3.1\CircleCalculateFun..genruntimeconfig.cache

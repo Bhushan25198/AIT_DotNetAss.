@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\ConsoleApp2\Fibonacci SeriesAss\obj\Debug\net5.0\Fibonacci SeriesAss.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\ConsoleApp2\Fibonacci SeriesAss\obj\Debug\net5.0\Fibonacci SeriesAss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\ConsoleApp2\Fibonacci SeriesAss\obj\Debug\net5.0\Fibonacci SeriesAss.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ConsoleApp2\Fibonacci SeriesAss\obj\Debug\net5.0\Fibonacci SeriesAss.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ConsoleApp2\Fibonacci SeriesAss\obj\Debug\net5.0\Fibonacci SeriesAss.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ConsoleApp2\Fibonacci SeriesAss\bin\Debug\net5.0\Fibonacci SeriesAss.exe
+C:\Users\Admin\source\repos\ConsoleApp2\Fibonacci SeriesAss\bin\Debug\net5.0\Fibonacci SeriesAss.deps.json
+C:\Users\Admin\source\repos\ConsoleApp2\Fibonacci SeriesAss\bin\Debug\net5.0\Fibonacci SeriesAss.runtimeconfig.json
+C:\Users\Admin\source\repos\ConsoleApp2\Fibonacci SeriesAss\bin\Debug\net5.0\Fibonacci SeriesAss.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\ConsoleApp2\Fibonacci SeriesAss\bin\Debug\net5.0\Fibonacci SeriesAss.dll
+C:\Users\Admin\source\repos\ConsoleApp2\Fibonacci SeriesAss\bin\Debug\net5.0\ref\Fibonacci SeriesAss.dll
+C:\Users\Admin\source\repos\ConsoleApp2\Fibonacci SeriesAss\bin\Debug\net5.0\Fibonacci SeriesAss.pdb
+C:\Users\Admin\source\repos\ConsoleApp2\Fibonacci SeriesAss\obj\Debug\net5.0\Fibonacci SeriesAss.dll
+C:\Users\Admin\source\repos\ConsoleApp2\Fibonacci SeriesAss\obj\Debug\net5.0\ref\Fibonacci SeriesAss.dll
+C:\Users\Admin\source\repos\ConsoleApp2\Fibonacci SeriesAss\obj\Debug\net5.0\Fibonacci SeriesAss.pdb
+C:\Users\Admin\source\repos\ConsoleApp2\Fibonacci SeriesAss\obj\Debug\net5.0\Fibonacci SeriesAss.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\DemoArray\GenaricCollection\bin\Debug\netcoreapp3.1\GenaricCollection.exe
+C:\Users\Admin\source\repos\DemoArray\GenaricCollection\bin\Debug\netcoreapp3.1\GenaricCollection.deps.json
+C:\Users\Admin\source\repos\DemoArray\GenaricCollection\bin\Debug\netcoreapp3.1\GenaricCollection.runtimeconfig.json
+C:\Users\Admin\source\repos\DemoArray\GenaricCollection\bin\Debug\netcoreapp3.1\GenaricCollection.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\DemoArray\GenaricCollection\bin\Debug\netcoreapp3.1\GenaricCollection.dll
+C:\Users\Admin\source\repos\DemoArray\GenaricCollection\bin\Debug\netcoreapp3.1\GenaricCollection.pdb
+C:\Users\Admin\source\repos\DemoArray\GenaricCollection\obj\Debug\netcoreapp3.1\GenaricCollection.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\DemoArray\GenaricCollection\obj\Debug\netcoreapp3.1\GenaricCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\DemoArray\GenaricCollection\obj\Debug\netcoreapp3.1\GenaricCollection.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\DemoArray\GenaricCollection\obj\Debug\netcoreapp3.1\GenaricCollection.AssemblyInfo.cs
+C:\Users\Admin\source\repos\DemoArray\GenaricCollection\obj\Debug\netcoreapp3.1\GenaricCollection.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DemoArray\GenaricCollection\obj\Debug\netcoreapp3.1\GenaricCollection.dll
+C:\Users\Admin\source\repos\DemoArray\GenaricCollection\obj\Debug\netcoreapp3.1\GenaricCollection.pdb
+C:\Users\Admin\source\repos\DemoArray\GenaricCollection\obj\Debug\netcoreapp3.1\GenaricCollection.genruntimeconfig.cache

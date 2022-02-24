@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\ConsoleApp2\CalculateAss\bin\Debug\net5.0\CalculateAss.exe
+C:\Users\Admin\source\repos\ConsoleApp2\CalculateAss\bin\Debug\net5.0\CalculateAss.deps.json
+C:\Users\Admin\source\repos\ConsoleApp2\CalculateAss\bin\Debug\net5.0\CalculateAss.runtimeconfig.json
+C:\Users\Admin\source\repos\ConsoleApp2\CalculateAss\bin\Debug\net5.0\CalculateAss.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\ConsoleApp2\CalculateAss\bin\Debug\net5.0\CalculateAss.dll
+C:\Users\Admin\source\repos\ConsoleApp2\CalculateAss\bin\Debug\net5.0\ref\CalculateAss.dll
+C:\Users\Admin\source\repos\ConsoleApp2\CalculateAss\bin\Debug\net5.0\CalculateAss.pdb
+C:\Users\Admin\source\repos\ConsoleApp2\CalculateAss\obj\Debug\net5.0\CalculateAss.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\ConsoleApp2\CalculateAss\obj\Debug\net5.0\CalculateAss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\ConsoleApp2\CalculateAss\obj\Debug\net5.0\CalculateAss.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ConsoleApp2\CalculateAss\obj\Debug\net5.0\CalculateAss.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ConsoleApp2\CalculateAss\obj\Debug\net5.0\CalculateAss.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ConsoleApp2\CalculateAss\obj\Debug\net5.0\CalculateAss.dll
+C:\Users\Admin\source\repos\ConsoleApp2\CalculateAss\obj\Debug\net5.0\ref\CalculateAss.dll
+C:\Users\Admin\source\repos\ConsoleApp2\CalculateAss\obj\Debug\net5.0\CalculateAss.pdb
+C:\Users\Admin\source\repos\ConsoleApp2\CalculateAss\obj\Debug\net5.0\CalculateAss.genruntimeconfig.cache

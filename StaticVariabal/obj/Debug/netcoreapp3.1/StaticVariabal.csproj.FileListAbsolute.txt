@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\Assignment1\StaticVariabal\bin\Debug\netcoreapp3.1\StaticVariabal.exe
+C:\Users\Admin\source\repos\Assignment1\StaticVariabal\bin\Debug\netcoreapp3.1\StaticVariabal.deps.json
+C:\Users\Admin\source\repos\Assignment1\StaticVariabal\bin\Debug\netcoreapp3.1\StaticVariabal.runtimeconfig.json
+C:\Users\Admin\source\repos\Assignment1\StaticVariabal\bin\Debug\netcoreapp3.1\StaticVariabal.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Assignment1\StaticVariabal\bin\Debug\netcoreapp3.1\StaticVariabal.dll
+C:\Users\Admin\source\repos\Assignment1\StaticVariabal\bin\Debug\netcoreapp3.1\StaticVariabal.pdb
+C:\Users\Admin\source\repos\Assignment1\StaticVariabal\obj\Debug\netcoreapp3.1\StaticVariabal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Assignment1\StaticVariabal\obj\Debug\netcoreapp3.1\StaticVariabal.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Assignment1\StaticVariabal\obj\Debug\netcoreapp3.1\StaticVariabal.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Assignment1\StaticVariabal\obj\Debug\netcoreapp3.1\StaticVariabal.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Assignment1\StaticVariabal\obj\Debug\netcoreapp3.1\StaticVariabal.dll
+C:\Users\Admin\source\repos\Assignment1\StaticVariabal\obj\Debug\netcoreapp3.1\StaticVariabal.pdb
+C:\Users\Admin\source\repos\Assignment1\StaticVariabal\obj\Debug\netcoreapp3.1\StaticVariabal.genruntimeconfig.cache

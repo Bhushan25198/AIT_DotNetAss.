@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\ConsoleApp2\InterfaceAss\obj\Debug\net5.0\InterfaceAss.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\ConsoleApp2\InterfaceAss\obj\Debug\net5.0\InterfaceAss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\ConsoleApp2\InterfaceAss\obj\Debug\net5.0\InterfaceAss.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ConsoleApp2\InterfaceAss\obj\Debug\net5.0\InterfaceAss.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ConsoleApp2\InterfaceAss\obj\Debug\net5.0\InterfaceAss.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ConsoleApp2\InterfaceAss\bin\Debug\net5.0\InterfaceAss.exe
+C:\Users\Admin\source\repos\ConsoleApp2\InterfaceAss\bin\Debug\net5.0\InterfaceAss.deps.json
+C:\Users\Admin\source\repos\ConsoleApp2\InterfaceAss\bin\Debug\net5.0\InterfaceAss.runtimeconfig.json
+C:\Users\Admin\source\repos\ConsoleApp2\InterfaceAss\bin\Debug\net5.0\InterfaceAss.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\ConsoleApp2\InterfaceAss\bin\Debug\net5.0\InterfaceAss.dll
+C:\Users\Admin\source\repos\ConsoleApp2\InterfaceAss\bin\Debug\net5.0\ref\InterfaceAss.dll
+C:\Users\Admin\source\repos\ConsoleApp2\InterfaceAss\bin\Debug\net5.0\InterfaceAss.pdb
+C:\Users\Admin\source\repos\ConsoleApp2\InterfaceAss\obj\Debug\net5.0\InterfaceAss.dll
+C:\Users\Admin\source\repos\ConsoleApp2\InterfaceAss\obj\Debug\net5.0\ref\InterfaceAss.dll
+C:\Users\Admin\source\repos\ConsoleApp2\InterfaceAss\obj\Debug\net5.0\InterfaceAss.pdb
+C:\Users\Admin\source\repos\ConsoleApp2\InterfaceAss\obj\Debug\net5.0\InterfaceAss.genruntimeconfig.cache

@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="HRMSDBModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2008" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'HRMSDB.dbo.BookDetails' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="EMPLOYEES">
+    <Key>
+      <PropertyRef Name="EMPLOYEE_ID" />
+    </Key>
+    <Property Name="EMPLOYEE_ID" Type="numeric" Precision="6" Scale="0" Nullable="false" />
+    <Property Name="FIRST_NAME" Type="varchar" MaxLength="20" />
+    <Property Name="LAST_NAME" Type="varchar" MaxLength="25" Nullable="false" />
+    <Property Name="EMAIL" Type="varchar" MaxLength="25" Nullable="false" />
+    <Property Name="PHONE_NUMBER" Type="varchar" MaxLength="20" />
+    <Property Name="HIRE_DATE" Type="date" Nullable="false" />
+    <Property Name="JOB_ID" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="SALARY" Type="numeric" Precision="8" Scale="2" />
+    <Property Name="COMMISSION_PCT" Type="numeric" Precision="2" Scale="2" />
+    <Property Name="MANAGER_ID" Type="numeric" Precision="6" Scale="0" />
+    <Property Name="DEPARTMENT_ID" Type="numeric" Precision="4" Scale="0" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'HRMSDB.dbo.job_grades' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="job_grades">
+    <Key>
+      <PropertyRef Name="lowest_sal" />
+      <PropertyRef Name="highest_sal" />
+    </Key>
+    <Property Name="grade" Type="char" MaxLength="1" />
+    <Property Name="lowest_sal" Type="numeric" Precision="8" Scale="2" Nullable="false" />
+    <Property Name="highest_sal" Type="numeric" Precision="8" Scale="2" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="HRMSDBModelStoreContainer">
+    <EntitySet Name="EMPLOYEES" EntityType="Self.EMPLOYEES" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="job_grades" EntityType="Self.job_grades" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+[job_grades].[grade] AS [grade], 
+[job_grades].[lowest_sal] AS [lowest_sal], 
+[job_grades].[highest_sal] AS [highest_sal]
+FROM [dbo].[job_grades] AS [job_grades]</DefiningQuery>
+    </EntitySet>
+  </EntityContainer>
+</Schema>

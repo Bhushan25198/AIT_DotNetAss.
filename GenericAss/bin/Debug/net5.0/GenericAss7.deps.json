@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "GenericAss7/1.0.0": {
+        "runtime": {
+          "GenericAss7.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GenericAss7/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

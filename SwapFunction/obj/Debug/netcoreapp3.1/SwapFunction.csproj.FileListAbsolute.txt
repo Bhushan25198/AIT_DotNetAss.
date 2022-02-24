@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Assignment1\SwapFunction\bin\Debug\netcoreapp3.1\SwapFunction.exe
+C:\Users\Admin\source\repos\Assignment1\SwapFunction\bin\Debug\netcoreapp3.1\SwapFunction.deps.json
+C:\Users\Admin\source\repos\Assignment1\SwapFunction\bin\Debug\netcoreapp3.1\SwapFunction.runtimeconfig.json
+C:\Users\Admin\source\repos\Assignment1\SwapFunction\bin\Debug\netcoreapp3.1\SwapFunction.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Assignment1\SwapFunction\bin\Debug\netcoreapp3.1\SwapFunction.dll
+C:\Users\Admin\source\repos\Assignment1\SwapFunction\bin\Debug\netcoreapp3.1\SwapFunction.pdb
+C:\Users\Admin\source\repos\Assignment1\SwapFunction\obj\Debug\netcoreapp3.1\SwapFunction.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Assignment1\SwapFunction\obj\Debug\netcoreapp3.1\SwapFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Assignment1\SwapFunction\obj\Debug\netcoreapp3.1\SwapFunction.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Assignment1\SwapFunction\obj\Debug\netcoreapp3.1\SwapFunction.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Assignment1\SwapFunction\obj\Debug\netcoreapp3.1\SwapFunction.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Assignment1\SwapFunction\obj\Debug\netcoreapp3.1\SwapFunction.dll
+C:\Users\Admin\source\repos\Assignment1\SwapFunction\obj\Debug\netcoreapp3.1\SwapFunction.pdb
+C:\Users\Admin\source\repos\Assignment1\SwapFunction\obj\Debug\netcoreapp3.1\SwapFunction.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\ConsoleApp2\BookConstructor3\bin\Debug\net5.0\BookConstructor3.exe
+C:\Users\Admin\source\repos\ConsoleApp2\BookConstructor3\bin\Debug\net5.0\BookConstructor3.deps.json
+C:\Users\Admin\source\repos\ConsoleApp2\BookConstructor3\bin\Debug\net5.0\BookConstructor3.runtimeconfig.json
+C:\Users\Admin\source\repos\ConsoleApp2\BookConstructor3\bin\Debug\net5.0\BookConstructor3.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\ConsoleApp2\BookConstructor3\bin\Debug\net5.0\BookConstructor3.dll
+C:\Users\Admin\source\repos\ConsoleApp2\BookConstructor3\bin\Debug\net5.0\ref\BookConstructor3.dll
+C:\Users\Admin\source\repos\ConsoleApp2\BookConstructor3\bin\Debug\net5.0\BookConstructor3.pdb
+C:\Users\Admin\source\repos\ConsoleApp2\BookConstructor3\obj\Debug\net5.0\BookConstructor3.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\ConsoleApp2\BookConstructor3\obj\Debug\net5.0\BookConstructor3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\ConsoleApp2\BookConstructor3\obj\Debug\net5.0\BookConstructor3.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ConsoleApp2\BookConstructor3\obj\Debug\net5.0\BookConstructor3.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ConsoleApp2\BookConstructor3\obj\Debug\net5.0\BookConstructor3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ConsoleApp2\BookConstructor3\obj\Debug\net5.0\BookConstructor3.dll
+C:\Users\Admin\source\repos\ConsoleApp2\BookConstructor3\obj\Debug\net5.0\ref\BookConstructor3.dll
+C:\Users\Admin\source\repos\ConsoleApp2\BookConstructor3\obj\Debug\net5.0\BookConstructor3.pdb
+C:\Users\Admin\source\repos\ConsoleApp2\BookConstructor3\obj\Debug\net5.0\BookConstructor3.genruntimeconfig.cache

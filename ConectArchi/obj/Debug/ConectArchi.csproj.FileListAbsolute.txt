@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\ConsoleApp2\ConectArchi\bin\Debug\ConectArchi.exe.config
+C:\Users\Admin\source\repos\ConsoleApp2\ConectArchi\bin\Debug\ConectArchi.exe
+C:\Users\Admin\source\repos\ConsoleApp2\ConectArchi\bin\Debug\ConectArchi.pdb
+C:\Users\Admin\source\repos\ConsoleApp2\ConectArchi\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Admin\source\repos\ConsoleApp2\ConectArchi\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Admin\source\repos\ConsoleApp2\ConectArchi\obj\Debug\ConectArchi.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\ConsoleApp2\ConectArchi\obj\Debug\ConectArchi.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ConsoleApp2\ConectArchi\obj\Debug\ConectArchi.csproj.CopyComplete
+C:\Users\Admin\source\repos\ConsoleApp2\ConectArchi\obj\Debug\ConectArchi.exe
+C:\Users\Admin\source\repos\ConsoleApp2\ConectArchi\obj\Debug\ConectArchi.pdb

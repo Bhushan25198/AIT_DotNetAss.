@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\DemoArray\DemoArray\obj\Debug\netcoreapp3.1\DemoArray.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\DemoArray\DemoArray\obj\Debug\netcoreapp3.1\DemoArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\DemoArray\DemoArray\obj\Debug\netcoreapp3.1\DemoArray.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\DemoArray\DemoArray\obj\Debug\netcoreapp3.1\DemoArray.AssemblyInfo.cs
+C:\Users\Admin\source\repos\DemoArray\DemoArray\obj\Debug\netcoreapp3.1\DemoArray.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DemoArray\DemoArray\bin\Debug\netcoreapp3.1\DemoArray.exe
+C:\Users\Admin\source\repos\DemoArray\DemoArray\bin\Debug\netcoreapp3.1\DemoArray.deps.json
+C:\Users\Admin\source\repos\DemoArray\DemoArray\bin\Debug\netcoreapp3.1\DemoArray.runtimeconfig.json
+C:\Users\Admin\source\repos\DemoArray\DemoArray\bin\Debug\netcoreapp3.1\DemoArray.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\DemoArray\DemoArray\bin\Debug\netcoreapp3.1\DemoArray.dll
+C:\Users\Admin\source\repos\DemoArray\DemoArray\bin\Debug\netcoreapp3.1\DemoArray.pdb
+C:\Users\Admin\source\repos\DemoArray\DemoArray\obj\Debug\netcoreapp3.1\DemoArray.dll
+C:\Users\Admin\source\repos\DemoArray\DemoArray\obj\Debug\netcoreapp3.1\DemoArray.pdb
+C:\Users\Admin\source\repos\DemoArray\DemoArray\obj\Debug\netcoreapp3.1\DemoArray.genruntimeconfig.cache

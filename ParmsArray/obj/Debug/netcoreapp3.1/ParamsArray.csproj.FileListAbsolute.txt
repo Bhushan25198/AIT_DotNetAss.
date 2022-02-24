@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Assignment1\ParmsArray\obj\Debug\netcoreapp3.1\ParamsArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Assignment1\ParmsArray\obj\Debug\netcoreapp3.1\ParamsArray.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Assignment1\ParmsArray\obj\Debug\netcoreapp3.1\ParamsArray.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Assignment1\ParmsArray\obj\Debug\netcoreapp3.1\ParamsArray.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Assignment1\ParmsArray\bin\Debug\netcoreapp3.1\ParamsArray.exe
+C:\Users\Admin\source\repos\Assignment1\ParmsArray\bin\Debug\netcoreapp3.1\ParamsArray.deps.json
+C:\Users\Admin\source\repos\Assignment1\ParmsArray\bin\Debug\netcoreapp3.1\ParamsArray.runtimeconfig.json
+C:\Users\Admin\source\repos\Assignment1\ParmsArray\bin\Debug\netcoreapp3.1\ParamsArray.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Assignment1\ParmsArray\bin\Debug\netcoreapp3.1\ParamsArray.dll
+C:\Users\Admin\source\repos\Assignment1\ParmsArray\bin\Debug\netcoreapp3.1\ParamsArray.pdb
+C:\Users\Admin\source\repos\Assignment1\ParmsArray\obj\Debug\netcoreapp3.1\ParamsArray.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Assignment1\ParmsArray\obj\Debug\netcoreapp3.1\ParamsArray.dll
+C:\Users\Admin\source\repos\Assignment1\ParmsArray\obj\Debug\netcoreapp3.1\ParamsArray.pdb
+C:\Users\Admin\source\repos\Assignment1\ParmsArray\obj\Debug\netcoreapp3.1\ParamsArray.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\DemoArray\GenaricCollection\bin\Debug\netcoreapp3.1\DemoStacGeneric.exe
+C:\Users\Admin\source\repos\DemoArray\GenaricCollection\bin\Debug\netcoreapp3.1\DemoStacGeneric.deps.json
+C:\Users\Admin\source\repos\DemoArray\GenaricCollection\bin\Debug\netcoreapp3.1\DemoStacGeneric.runtimeconfig.json
+C:\Users\Admin\source\repos\DemoArray\GenaricCollection\bin\Debug\netcoreapp3.1\DemoStacGeneric.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\DemoArray\GenaricCollection\bin\Debug\netcoreapp3.1\DemoStacGeneric.dll
+C:\Users\Admin\source\repos\DemoArray\GenaricCollection\bin\Debug\netcoreapp3.1\DemoStacGeneric.pdb
+C:\Users\Admin\source\repos\DemoArray\GenaricCollection\obj\Debug\netcoreapp3.1\DemoStacGeneric.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\DemoArray\GenaricCollection\obj\Debug\netcoreapp3.1\DemoStacGeneric.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\DemoArray\GenaricCollection\obj\Debug\netcoreapp3.1\DemoStacGeneric.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\DemoArray\GenaricCollection\obj\Debug\netcoreapp3.1\DemoStacGeneric.AssemblyInfo.cs
+C:\Users\Admin\source\repos\DemoArray\GenaricCollection\obj\Debug\netcoreapp3.1\DemoStacGeneric.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DemoArray\GenaricCollection\obj\Debug\netcoreapp3.1\DemoStacGeneric.dll
+C:\Users\Admin\source\repos\DemoArray\GenaricCollection\obj\Debug\netcoreapp3.1\DemoStacGeneric.pdb
+C:\Users\Admin\source\repos\DemoArray\GenaricCollection\obj\Debug\netcoreapp3.1\DemoStacGeneric.genruntimeconfig.cache

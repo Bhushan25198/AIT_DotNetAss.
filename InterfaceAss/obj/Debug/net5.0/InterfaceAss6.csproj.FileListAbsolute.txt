@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\ConsoleApp2\InterfaceAss\bin\Debug\net5.0\InterfaceAss6.exe
+C:\Users\Admin\source\repos\ConsoleApp2\InterfaceAss\bin\Debug\net5.0\InterfaceAss6.deps.json
+C:\Users\Admin\source\repos\ConsoleApp2\InterfaceAss\bin\Debug\net5.0\InterfaceAss6.runtimeconfig.json
+C:\Users\Admin\source\repos\ConsoleApp2\InterfaceAss\bin\Debug\net5.0\InterfaceAss6.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\ConsoleApp2\InterfaceAss\bin\Debug\net5.0\InterfaceAss6.dll
+C:\Users\Admin\source\repos\ConsoleApp2\InterfaceAss\bin\Debug\net5.0\ref\InterfaceAss6.dll
+C:\Users\Admin\source\repos\ConsoleApp2\InterfaceAss\bin\Debug\net5.0\InterfaceAss6.pdb
+C:\Users\Admin\source\repos\ConsoleApp2\InterfaceAss\obj\Debug\net5.0\InterfaceAss6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\ConsoleApp2\InterfaceAss\obj\Debug\net5.0\InterfaceAss6.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ConsoleApp2\InterfaceAss\obj\Debug\net5.0\InterfaceAss6.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ConsoleApp2\InterfaceAss\obj\Debug\net5.0\InterfaceAss6.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ConsoleApp2\InterfaceAss\obj\Debug\net5.0\InterfaceAss6.dll
+C:\Users\Admin\source\repos\ConsoleApp2\InterfaceAss\obj\Debug\net5.0\ref\InterfaceAss6.dll
+C:\Users\Admin\source\repos\ConsoleApp2\InterfaceAss\obj\Debug\net5.0\InterfaceAss6.pdb
+C:\Users\Admin\source\repos\ConsoleApp2\InterfaceAss\obj\Debug\net5.0\InterfaceAss6.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\ConsoleApp2\GenericAss\bin\Debug\net5.0\GenericAss.exe
+C:\Users\Admin\source\repos\ConsoleApp2\GenericAss\bin\Debug\net5.0\GenericAss.deps.json
+C:\Users\Admin\source\repos\ConsoleApp2\GenericAss\bin\Debug\net5.0\GenericAss.runtimeconfig.json
+C:\Users\Admin\source\repos\ConsoleApp2\GenericAss\bin\Debug\net5.0\GenericAss.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\ConsoleApp2\GenericAss\bin\Debug\net5.0\GenericAss.dll
+C:\Users\Admin\source\repos\ConsoleApp2\GenericAss\bin\Debug\net5.0\ref\GenericAss.dll
+C:\Users\Admin\source\repos\ConsoleApp2\GenericAss\bin\Debug\net5.0\GenericAss.pdb
+C:\Users\Admin\source\repos\ConsoleApp2\GenericAss\obj\Debug\net5.0\GenericAss.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\ConsoleApp2\GenericAss\obj\Debug\net5.0\GenericAss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\ConsoleApp2\GenericAss\obj\Debug\net5.0\GenericAss.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ConsoleApp2\GenericAss\obj\Debug\net5.0\GenericAss.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ConsoleApp2\GenericAss\obj\Debug\net5.0\GenericAss.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ConsoleApp2\GenericAss\obj\Debug\net5.0\GenericAss.dll
+C:\Users\Admin\source\repos\ConsoleApp2\GenericAss\obj\Debug\net5.0\ref\GenericAss.dll
+C:\Users\Admin\source\repos\ConsoleApp2\GenericAss\obj\Debug\net5.0\GenericAss.pdb
+C:\Users\Admin\source\repos\ConsoleApp2\GenericAss\obj\Debug\net5.0\GenericAss.genruntimeconfig.cache

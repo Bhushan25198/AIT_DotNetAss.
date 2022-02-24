@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Assignment1\FactorialNo\bin\Debug\netcoreapp3.1\FactorialNo.exe
+C:\Users\Admin\source\repos\Assignment1\FactorialNo\bin\Debug\netcoreapp3.1\FactorialNo.deps.json
+C:\Users\Admin\source\repos\Assignment1\FactorialNo\bin\Debug\netcoreapp3.1\FactorialNo.runtimeconfig.json
+C:\Users\Admin\source\repos\Assignment1\FactorialNo\bin\Debug\netcoreapp3.1\FactorialNo.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Assignment1\FactorialNo\bin\Debug\netcoreapp3.1\FactorialNo.dll
+C:\Users\Admin\source\repos\Assignment1\FactorialNo\bin\Debug\netcoreapp3.1\FactorialNo.pdb
+C:\Users\Admin\source\repos\Assignment1\FactorialNo\obj\Debug\netcoreapp3.1\FactorialNo.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Assignment1\FactorialNo\obj\Debug\netcoreapp3.1\FactorialNo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Assignment1\FactorialNo\obj\Debug\netcoreapp3.1\FactorialNo.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Assignment1\FactorialNo\obj\Debug\netcoreapp3.1\FactorialNo.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Assignment1\FactorialNo\obj\Debug\netcoreapp3.1\FactorialNo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Assignment1\FactorialNo\obj\Debug\netcoreapp3.1\FactorialNo.dll
+C:\Users\Admin\source\repos\Assignment1\FactorialNo\obj\Debug\netcoreapp3.1\FactorialNo.pdb
+C:\Users\Admin\source\repos\Assignment1\FactorialNo\obj\Debug\netcoreapp3.1\FactorialNo.genruntimeconfig.cache
